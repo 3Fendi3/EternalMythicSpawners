@@ -1,0 +1,125 @@
+list-mobs-type:
+  exp0_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp5_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp10_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp15_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp20_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp25_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp30_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp35_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp45_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp50_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp55_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp60_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp65_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp70_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp75_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp80_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp85_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp90_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp95_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+  exp100_boss:
+    show-holo: true
+    offset-holo:
+      x: 0.0
+      y: 2.5
+      z: 0.0
+
+holo-message-mobtype: "<#008bff>&l%mt%"
+holo-message-spawning: "&7Respienie..."
+holo-message-spawn-in: "&7Pojawi sie za &l%sec%&r&7 sekund"

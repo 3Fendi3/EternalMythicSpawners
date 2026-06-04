@@ -1,9 +1,18 @@
 name: EternalMythicSpawners
-description: $description
+description: Timer holograms for configured MythicMobs spawners.
 version: '${version}'
 
 main: me.fendi.eternalMythicSpawners.EternalMythicSpawners
 api-version: '1.21.11'
 load: POSTWORLD
+depend: [ MythicMobs, DecentHolograms ]
 
 authors: [ Fendi ]
+commands:
+  eternalmythicspawners:
+    usage: /<command> reload
+    aliases: [ ems ]
+    permission: eternalmythicspawners.admin
+permissions:
+  eternalmythicspawners.admin:
+    default: op
