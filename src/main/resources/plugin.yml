@@ -1,0 +1,9 @@
+name: EternalMythicSpawners
+description: $description
+version: '${version}'
+
+main: me.fendi.eternalMythicSpawners.EternalMythicSpawners
+api-version: '1.21.11'
+load: POSTWORLD
+
+authors: [ Fendi ]
